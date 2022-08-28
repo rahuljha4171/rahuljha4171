@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahul Jha</h1>
-<img src="assets/github Banner.png" alt="Github Banner" align="center"/><br>
-<img src="assets/coding.gif" alt="Coding GIF" width="400"  align="right"/>
-
+<h1 align="center">Hi 👋, I am</h1>
+<img src="assets/banner.png" alt="Github Banner" align="center"/><br>
 
 
 
