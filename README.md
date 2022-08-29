@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://postman.com" target="_blank"> 
@@ -155,7 +155,7 @@
 <a href="https://linkedin.com/in/rahuljha4171" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://github.com/in/rahuljha4171" target="_blank">
+  <a href="https://github.com/rahuljha4171" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?color=494949&style=for-the-badge&logo=Github&logoColor=white" alt="Github" style="margin-bottom: 5px;"/>
 </a>
 <a href="https://twitter.com/rahuljha4171" target="_blank">
