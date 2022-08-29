@@ -144,7 +144,7 @@
   
 <p align='center'>
 <img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljha4171&theme=react">
-<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuljha4171&theme=react">
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuljha4171&theme=react&v=2">
 
 <p>
   
