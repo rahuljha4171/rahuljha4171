@@ -132,7 +132,7 @@
 ## My Statistics 📈 
 <br/>
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rahuljha4171&show_icons=true&theme=react"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rahuljha4171&show_icons=true&count_private=true&theme=react"/>
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljha4171&theme=react"/>
   
  </p>
