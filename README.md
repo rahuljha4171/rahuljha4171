@@ -147,10 +147,6 @@
 <img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuljha4171&layuout=compact&theme=react">
 
 <p>
-<hr>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
   
 -----
 
